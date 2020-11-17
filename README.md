@@ -1,14 +1,20 @@
 # Selenium
 Pruebas de Selenium realizadas en el lenguaje de JavaScript.
 ## Herramientas utilizadas
--> GeckoDriver
--> Node.js
--> npm
--> Visual Studio Code (IDE)
+-> GeckoDriver \
+-> Node.js \
+-> npm \
+-> Visual Studio Code (IDE) \
+-> XUnit integrado: Mochajs y chai
 
 ## Primera prueba
 ![Alt text](https://github.com/oscar-pfuturi-h/Selenium/blob/main/images/test1.JPG)
 
+## Segunda prueba
+![Alt text](https://github.com/oscar-pfuturi-h/Selenium/blob/main/images/firsttest.JPG)
+
+## Testing usando asserts
+![Alt text](https://github.com/oscar-pfuturi-h/Selenium/blob/main/images/mochatest.JPG)
 
 
 ## Referencias
