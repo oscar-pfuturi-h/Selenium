@@ -1,4 +1,4 @@
 # Selenium
 
 ## Primera prueba
-![Alt_text](https://github.com/oscar-pfuturi-h/Selenium/tree/main/images/test1.JPG)
+![Alt text](https://github.com/oscar-pfuturi-h/Selenium/blob/main/images/test1.JPG)
